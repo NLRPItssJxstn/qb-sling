@@ -2,7 +2,7 @@
 I updated the "https://github.com/nagsterFVZ/fjh-sling" to new QB-Core!
 
 Installation
-Add `start fjh-sling` or `ensure fjh-sling` to your server.cfg or mods.cfg if you use one.
+Add `start qb-sling` or `ensure qb-sling` to your server.cfg or mods.cfg if you use one.
 
 Config file
 If you want to add other weapons add them to the config.lua file in the same way weapons are added there now. The first value needs the be the item name from qbcore shared.lua otherwise it cannot find the weapon.
